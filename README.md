@@ -2,7 +2,7 @@
 
 ## I'm Arthur
 
-- 🎓 Systems Analysis and Development student at FIEO (UNIFIEO)
+- 🎓 Systems Analysis and Development student at FIAP (Faculdade de Informática e Administração Paulista)
 - 💻 Currently focused on backend development
 - 🐍 Experience with Python
 - 📚 Currently learning Java
